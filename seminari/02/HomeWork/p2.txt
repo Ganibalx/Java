@@ -1,6 +1,168 @@
-февр. 18, 2023 3:51:22 PM HomeWork.p2 main
+февр. 19, 2023 9:45:07 AM HomeWork.p2 main
 INFO: печатаем исходный массив
-февр. 18, 2023 3:51:22 PM HomeWork.p2 main
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 0 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 1 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 2 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 3 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 4 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 5 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 6 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 7 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 8 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 9 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 main
 INFO: сортируем
-февр. 18, 2023 3:51:22 PM HomeWork.p2 main
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 5 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 3 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 6 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 6 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 2 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 4 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 9 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 9 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 8 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 8 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 7 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 7 и 10
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 3 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 5 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 2 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 4 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 6 и 9
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 8 и 9
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 8 и 9
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 7 и 9
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 7 и 9
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 2 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 4 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 5 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 6 и 8
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 7 и 8
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 7 и 8
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 4
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 5 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 6 и 7
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 2
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 4
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 5 и 6
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 2
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 4
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 4 и 5
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 2
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 3 и 4
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 2
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 2 и 3
+февр. 19, 2023 9:45:07 AM HomeWork.p2 sort
+INFO: не меняем местами 1 и 2
+февр. 19, 2023 9:45:07 AM HomeWork.p2 main
 INFO: печатаем отсортированный массив
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 0 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 1 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 2 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 3 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 4 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 5 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 6 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 7 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 8 элемент
+февр. 19, 2023 9:45:07 AM HomeWork.p2 print
+INFO: печать 9 элемент
