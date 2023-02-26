@@ -1,7 +1,7 @@
 public class p1 {
     public static void main(String[] args) {
         int a = 2;
-        int b = 2025;
+        int b = 12;
         System.out.println(calc(a, b));
     }
 
