@@ -1,5 +1,3 @@
-package Lesson_06.part2;
-
 public class Worker {
     int id;
     int salary;
